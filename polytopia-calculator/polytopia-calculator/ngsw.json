@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1585370584595,
+  "timestamp": 1585370902749,
   "index": "/polytopia-calculator/index.html",
   "assetGroups": [
     {
@@ -18,7 +18,7 @@
         "/polytopia-calculator/93.c21fd5b99408b54dbc8b.js",
         "/polytopia-calculator/common.33b6a014a5bb342e17b4.js",
         "/polytopia-calculator/index.html",
-        "/polytopia-calculator/main.5b607c8c245d3e0bd32e.js",
+        "/polytopia-calculator/main.44caf6172c9b6f0dd64a.js",
         "/polytopia-calculator/manifest.webmanifest",
         "/polytopia-calculator/polyfills-es5.5754f59f73a7ca677ba0.js",
         "/polytopia-calculator/polyfills.c14d73f1b822565e96b5.js",
@@ -267,8 +267,8 @@
     "/polytopia-calculator/assets/other/Switch2.png": "b315b56e90978269560e4c82a231c173597ec570",
     "/polytopia-calculator/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/polytopia-calculator/common.33b6a014a5bb342e17b4.js": "8d0ad2f902251c5434b08c7f47ed41d0c1f92473",
-    "/polytopia-calculator/index.html": "c237627e568afa51ccbfa60b0b7dc6df3cda8de2",
-    "/polytopia-calculator/main.5b607c8c245d3e0bd32e.js": "f278c43cc9ac9eab99f72fe30bcafcba1af8b508",
+    "/polytopia-calculator/index.html": "cb5831806d8a252d95c0de7ba2f0fb34441b0140",
+    "/polytopia-calculator/main.44caf6172c9b6f0dd64a.js": "503fd93ecd4f3ec951fb02ccebee0abe55fb3e7f",
     "/polytopia-calculator/manifest.webmanifest": "702b47aed5222a8ba9b4b0ed3c3845f99a3c14d0",
     "/polytopia-calculator/polyfills-es5.5754f59f73a7ca677ba0.js": "17055870bb84279d3d7c609a5d49b61894e3ff60",
     "/polytopia-calculator/polyfills.c14d73f1b822565e96b5.js": "14e6c5d7f6a5e7534f8b5773b63ab0fb23047cf8",
