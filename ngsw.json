@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1613664478446,
+  "timestamp": 1613701871415,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "/5.2aebeab6085ff3ab2ce8.js",
         "/6.989c3202465bc10eb1b0.js",
         "/7.7ba391e2fc823fb18963.js",
-        "/92.8af0304f7244bc3b2f12.js",
+        "/92.9cf4882ce5aaf2b696fc.js",
         "/93.c21fd5b99408b54dbc8b.js",
         "/common.33b6a014a5bb342e17b4.js",
         "/index.html",
@@ -23,7 +23,7 @@
         "/manifest.webmanifest",
         "/polyfills-es5.5754f59f73a7ca677ba0.js",
         "/polyfills.c14d73f1b822565e96b5.js",
-        "/runtime.aac297ae95e0289c06e4.js",
+        "/runtime.02ed3c2abecac30d5ffb.js",
         "/stencil-ion-action-sheet-ios-entry-js.19c118bb4b324ced4d5e.js",
         "/stencil-ion-action-sheet-md-entry-js.c0fee42fa1c01ee04eae.js",
         "/stencil-ion-alert-ios-entry-js.373b6c2670291d99b611.js",
@@ -123,6 +123,7 @@
         "/assets/Ice Fortress.png",
         "/assets/Mooni.png",
         "/assets/Polytaur.png",
+        "/assets/add-circle-outline.svg",
         "/assets/attacker.zip",
         "/assets/attacker_old/Amphibian.png",
         "/assets/attacker_old/Archer.png",
@@ -264,7 +265,8 @@
         "/assets/other/SmallSwords.png",
         "/assets/other/Switch1.png",
         "/assets/other/Switch2.png",
-        "/assets/shapes.svg"
+        "/assets/shapes.svg",
+        "/assets/trash-bin-outline.svg"
       ],
       "patterns": []
     }
@@ -278,7 +280,7 @@
     "/5.2aebeab6085ff3ab2ce8.js": "37e308d0cdc0a35a5a7ac3bf0716e26b0e62ecca",
     "/6.989c3202465bc10eb1b0.js": "be23e3d2f957e5929507e08982331337315bc1dd",
     "/7.7ba391e2fc823fb18963.js": "22e901fa56d2942296a0dd520e312b9bbc705ada",
-    "/92.8af0304f7244bc3b2f12.js": "285924db31b1c91e8af6c639be20a0b3838d7d3b",
+    "/92.9cf4882ce5aaf2b696fc.js": "741696750a2c476aa293fee0575c62e8870201f0",
     "/93.c21fd5b99408b54dbc8b.js": "a91d3409dd8795da779379390fd6d6665c9cb78c",
     "/assets/Baby Dragon.png": "943740b4c04ff2b62d9349747da02b802271c60e",
     "/assets/Battle Sled.png": "436761f5f761960100c9771aebb960a06548f0b2",
@@ -290,6 +292,7 @@
     "/assets/Ice Fortress.png": "037c63337a4aad60a8f5cc66ef275c7c2de2312e",
     "/assets/Mooni.png": "35cda9cfdf08f50e6e742b716769dd281f5fa9e1",
     "/assets/Polytaur.png": "90b6e876cbc92cbf82c79035664cdbcc382c03ec",
+    "/assets/add-circle-outline.svg": "36a1eaca84cc405ff1b274969f43d7bc441be1ad",
     "/assets/attacker.zip": "3ef0ee690d942067ade0cbe5f3204b42bf8ffac7",
     "/assets/attacker_old/Amphibian.png": "2ffbf68acaef970662e7f190642078c0990108e8",
     "/assets/attacker_old/Archer.png": "02c0ac2a756679fada5e435aeff320a274e45880",
@@ -432,13 +435,14 @@
     "/assets/other/Switch1.png": "d882d14c604071eb6491a68fbc4aef02d4f7a45d",
     "/assets/other/Switch2.png": "b315b56e90978269560e4c82a231c173597ec570",
     "/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
+    "/assets/trash-bin-outline.svg": "4acdbe6ec823eee85c57ccb52430db619fa80b75",
     "/common.33b6a014a5bb342e17b4.js": "8d0ad2f902251c5434b08c7f47ed41d0c1f92473",
-    "/index.html": "43378715e898538450c1b4d16b1d71efa3fd0558",
+    "/index.html": "474c1d7b62ada5e699950f0a1dfdc87ae5bbe268",
     "/main.9c0991570c91c53d69ed.js": "9896ef72f3aff8f0ffb2050b0d9a2f67eba35959",
     "/manifest.webmanifest": "f3de9c8472912a67639846927d66a981fd5731d1",
     "/polyfills-es5.5754f59f73a7ca677ba0.js": "17055870bb84279d3d7c609a5d49b61894e3ff60",
     "/polyfills.c14d73f1b822565e96b5.js": "14e6c5d7f6a5e7534f8b5773b63ab0fb23047cf8",
-    "/runtime.aac297ae95e0289c06e4.js": "6dfa75b59796a63a089b12f974565b7d0f48d4e2",
+    "/runtime.02ed3c2abecac30d5ffb.js": "0b6f5115e0b4b6b7c1177eb4237eeda40b8c93bb",
     "/stencil-ion-action-sheet-ios-entry-js.19c118bb4b324ced4d5e.js": "cd895449f69194db8145e7a8a765a24c7d52afbf",
     "/stencil-ion-action-sheet-md-entry-js.c0fee42fa1c01ee04eae.js": "9eac95c4a8272f75129e867901411f71f429cf52",
     "/stencil-ion-alert-ios-entry-js.373b6c2670291d99b611.js": "669ce471d1eea96a677a8dfc83c0a2f245724abf",
