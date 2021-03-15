@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1615434868817,
+  "timestamp": 1615813177663,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "/5.2aebeab6085ff3ab2ce8.js",
         "/6.989c3202465bc10eb1b0.js",
         "/7.7ba391e2fc823fb18963.js",
-        "/92.90599613886ce5a98cf7.js",
+        "/92.138838454b6fca1975a3.js",
         "/93.c21fd5b99408b54dbc8b.js",
         "/common.33b6a014a5bb342e17b4.js",
         "/index.html",
@@ -23,7 +23,7 @@
         "/manifest.webmanifest",
         "/polyfills-es5.5754f59f73a7ca677ba0.js",
         "/polyfills.c14d73f1b822565e96b5.js",
-        "/runtime.dcc1a4c56248097e7b22.js",
+        "/runtime.6b590dda8f873c45fdf4.js",
         "/stencil-ion-action-sheet-ios-entry-js.19c118bb4b324ced4d5e.js",
         "/stencil-ion-action-sheet-md-entry-js.c0fee42fa1c01ee04eae.js",
         "/stencil-ion-alert-ios-entry-js.373b6c2670291d99b611.js",
@@ -104,7 +104,7 @@
         "/stencil-polyfills-core-js.b15f5b11a200417c9c29.js",
         "/stencil-polyfills-css-shim.8a9d31dd89955d2aa254.js",
         "/stencil-polyfills-dom.02ea3606e39393c671bc.js",
-        "/styles.419f1e51c9be7b9cddba.css"
+        "/styles.df5761357919967ea8a2.css"
       ],
       "patterns": []
     },
@@ -113,6 +113,10 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
+        "/Baloo2-Bold.ae54f1b8d95136c189d9.ttf",
+        "/Baloo2-Medium.188e0e531c8c950a48b7.ttf",
+        "/Baloo2-Regular.a95cb88be1095a0cf15b.ttf",
+        "/Baloo2-SemiBold.b9bee2f0c92fe9c03c91.ttf",
         "/assets/Segment.png",
         "/assets/add-circle-outline.svg",
         "/assets/attacker_units/Amphibian.png",
@@ -221,8 +225,12 @@
     "/5.2aebeab6085ff3ab2ce8.js": "37e308d0cdc0a35a5a7ac3bf0716e26b0e62ecca",
     "/6.989c3202465bc10eb1b0.js": "be23e3d2f957e5929507e08982331337315bc1dd",
     "/7.7ba391e2fc823fb18963.js": "22e901fa56d2942296a0dd520e312b9bbc705ada",
-    "/92.90599613886ce5a98cf7.js": "ee86bfb9194aac5f1a6ded64b1d0c22115185a16",
+    "/92.138838454b6fca1975a3.js": "2f3473302d092a02cd603a05df0eb9333cbf2c02",
     "/93.c21fd5b99408b54dbc8b.js": "a91d3409dd8795da779379390fd6d6665c9cb78c",
+    "/Baloo2-Bold.ae54f1b8d95136c189d9.ttf": "85215f8711d06ac253f5c5daccb7873f3d593ace",
+    "/Baloo2-Medium.188e0e531c8c950a48b7.ttf": "346930c1a85c509907818bb0c424f01463041f25",
+    "/Baloo2-Regular.a95cb88be1095a0cf15b.ttf": "4a1fc0d6f7607f9595d9f3b1b89abbd342c7c25b",
+    "/Baloo2-SemiBold.b9bee2f0c92fe9c03c91.ttf": "88bbd7663a3efb4f6bdd76fa488c27a9ea8497eb",
     "/assets/Segment.png": "16bb05c7b37833cf06b743d5079491abd37edeb0",
     "/assets/add-circle-outline.svg": "36a1eaca84cc405ff1b274969f43d7bc441be1ad",
     "/assets/attacker_units/Amphibian.png": "089b2fbe90c17a4b39452ebb89f5c76cd38504d5",
@@ -319,12 +327,12 @@
     "/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/assets/trash-bin-outline.svg": "4acdbe6ec823eee85c57ccb52430db619fa80b75",
     "/common.33b6a014a5bb342e17b4.js": "8d0ad2f902251c5434b08c7f47ed41d0c1f92473",
-    "/index.html": "53b83a601984d11cec580887132aaa9dfe6ac870",
+    "/index.html": "b732d6221862863de82840c62197346ed164ba41",
     "/main.489fe74f89acbc818bab.js": "581b241e28e52a3cdb8a45c77078cd3a5ee99b29",
-    "/manifest.webmanifest": "f3de9c8472912a67639846927d66a981fd5731d1",
+    "/manifest.webmanifest": "3aed065ccce69e34407ca2012f46186e5e742193",
     "/polyfills-es5.5754f59f73a7ca677ba0.js": "17055870bb84279d3d7c609a5d49b61894e3ff60",
     "/polyfills.c14d73f1b822565e96b5.js": "14e6c5d7f6a5e7534f8b5773b63ab0fb23047cf8",
-    "/runtime.dcc1a4c56248097e7b22.js": "25d5ea0926f6f400d019603f88cf1a30d6f93f2f",
+    "/runtime.6b590dda8f873c45fdf4.js": "d5225c25c60871e07299a3082be658334d5277af",
     "/stencil-ion-action-sheet-ios-entry-js.19c118bb4b324ced4d5e.js": "cd895449f69194db8145e7a8a765a24c7d52afbf",
     "/stencil-ion-action-sheet-md-entry-js.c0fee42fa1c01ee04eae.js": "9eac95c4a8272f75129e867901411f71f429cf52",
     "/stencil-ion-alert-ios-entry-js.373b6c2670291d99b611.js": "669ce471d1eea96a677a8dfc83c0a2f245724abf",
@@ -405,7 +413,7 @@
     "/stencil-polyfills-core-js.b15f5b11a200417c9c29.js": "68830c524a912e736a8c1166e4810aff3d820ea5",
     "/stencil-polyfills-css-shim.8a9d31dd89955d2aa254.js": "18fa2de7a91127e98e440796a01ea52efdd84a3c",
     "/stencil-polyfills-dom.02ea3606e39393c671bc.js": "3ed6664a6f405055e765b873d8657b8869a8fcdb",
-    "/styles.419f1e51c9be7b9cddba.css": "d372220b0b07c1821f340d2562c5595620e78888"
+    "/styles.df5761357919967ea8a2.css": "3398e56e1b87d317a7173a36f8435518e7f508f6"
   },
   "navigationUrls": [
     {

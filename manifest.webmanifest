@@ -1,8 +1,8 @@
 {
   "name": "Polytopia Calculator",
   "short_name": "Polytopia Calculator",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "theme_color": "#fc6156",
+  "background_color": "#fc6156",
   "display": "standalone",
   "start_url": "./",
   "icons": [
