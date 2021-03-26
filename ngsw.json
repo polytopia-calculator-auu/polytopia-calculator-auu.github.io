@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1616667565001,
+  "timestamp": 1616729384758,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -8,7 +8,7 @@
       "installMode": "lazy",
       "updateMode": "lazy",
       "urls": [
-        "/0.de425e21f70662e11234.worker.js",
+        "/0.5f34d9e80c6b7a07f845.worker.js",
         "/2.ad16c30a09c089865cac.js",
         "/3.75f64610df9af177e86d.js",
         "/4.fa62fd534f0f8f2b89e5.js",
@@ -16,7 +16,7 @@
         "/5.2aebeab6085ff3ab2ce8.js",
         "/6.989c3202465bc10eb1b0.js",
         "/7.7ba391e2fc823fb18963.js",
-        "/92.3a00faa0be87eeadc9a0.js",
+        "/92.db0ce41fa0fbdb03e590.js",
         "/93.c21fd5b99408b54dbc8b.js",
         "/common.33b6a014a5bb342e17b4.js",
         "/index.html",
@@ -24,7 +24,7 @@
         "/manifest.webmanifest",
         "/polyfills-es5.5754f59f73a7ca677ba0.js",
         "/polyfills.c14d73f1b822565e96b5.js",
-        "/runtime.8abe03c1da1d1eaef55e.js",
+        "/runtime.d871ef0aaed6c33acb8a.js",
         "/stencil-ion-action-sheet-ios-entry-js.19c118bb4b324ced4d5e.js",
         "/stencil-ion-action-sheet-md-entry-js.c0fee42fa1c01ee04eae.js",
         "/stencil-ion-alert-ios-entry-js.373b6c2670291d99b611.js",
@@ -112,7 +112,7 @@
     {
       "name": "assets",
       "installMode": "lazy",
-      "updateMode": "lazy",
+      "updateMode": "prefetch",
       "urls": [
         "/Baloo2-Bold.ae54f1b8d95136c189d9.ttf",
         "/Baloo2-Medium.188e0e531c8c950a48b7.ttf",
@@ -227,7 +227,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/0.de425e21f70662e11234.worker.js": "1a3f0d628249844926f7be1c40d22bd651375be0",
+    "/0.5f34d9e80c6b7a07f845.worker.js": "2cec9b260c61a81181fdfaf0f13ad1af08eafa6e",
     "/2.ad16c30a09c089865cac.js": "d13e13645f9f616bd4fbce056d0edee56dff1ddf",
     "/3.75f64610df9af177e86d.js": "e10c532a768f4f7a55415c1dc4b0f468a4718ce8",
     "/4.fa62fd534f0f8f2b89e5.js": "90e1f72611d3371e8ba9264d301b7491f0f29849",
@@ -235,7 +235,7 @@
     "/5.2aebeab6085ff3ab2ce8.js": "37e308d0cdc0a35a5a7ac3bf0716e26b0e62ecca",
     "/6.989c3202465bc10eb1b0.js": "be23e3d2f957e5929507e08982331337315bc1dd",
     "/7.7ba391e2fc823fb18963.js": "22e901fa56d2942296a0dd520e312b9bbc705ada",
-    "/92.3a00faa0be87eeadc9a0.js": "583d2cc25daac28c7401223b450f27b9cf2ac545",
+    "/92.db0ce41fa0fbdb03e590.js": "7832671bb9ebeaa81b52fc9e657e853b918f6f3b",
     "/93.c21fd5b99408b54dbc8b.js": "a91d3409dd8795da779379390fd6d6665c9cb78c",
     "/Baloo2-Bold.ae54f1b8d95136c189d9.ttf": "85215f8711d06ac253f5c5daccb7873f3d593ace",
     "/Baloo2-Medium.188e0e531c8c950a48b7.ttf": "346930c1a85c509907818bb0c424f01463041f25",
@@ -345,12 +345,12 @@
     "/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/assets/trash-bin-outline.svg": "4acdbe6ec823eee85c57ccb52430db619fa80b75",
     "/common.33b6a014a5bb342e17b4.js": "8d0ad2f902251c5434b08c7f47ed41d0c1f92473",
-    "/index.html": "cc79c15535fd6028fe9a2fb860764ab1b93d6fe8",
+    "/index.html": "a7d226fcf1c60e176ae17b9d422114e6b2dcafee",
     "/main.489fe74f89acbc818bab.js": "581b241e28e52a3cdb8a45c77078cd3a5ee99b29",
     "/manifest.webmanifest": "54f104d9d66d1665e30c817916bae478c5897ed0",
     "/polyfills-es5.5754f59f73a7ca677ba0.js": "17055870bb84279d3d7c609a5d49b61894e3ff60",
     "/polyfills.c14d73f1b822565e96b5.js": "14e6c5d7f6a5e7534f8b5773b63ab0fb23047cf8",
-    "/runtime.8abe03c1da1d1eaef55e.js": "61f31741dbfb28f3e06fd7eb6bae5fa0f9a21169",
+    "/runtime.d871ef0aaed6c33acb8a.js": "b67de6e7b416492ec6263ac286d09e6e68ea64cb",
     "/stencil-ion-action-sheet-ios-entry-js.19c118bb4b324ced4d5e.js": "cd895449f69194db8145e7a8a765a24c7d52afbf",
     "/stencil-ion-action-sheet-md-entry-js.c0fee42fa1c01ee04eae.js": "9eac95c4a8272f75129e867901411f71f429cf52",
     "/stencil-ion-alert-ios-entry-js.373b6c2670291d99b611.js": "669ce471d1eea96a677a8dfc83c0a2f245724abf",
