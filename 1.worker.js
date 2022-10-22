@@ -741,7 +741,7 @@ var unitStats = {
     Kiton: {
         attack: 1,
         defense: 3,
-        hp: 20,
+        hp: 15,
         veteranHp: 25,
         defenseBonus: 1.5,
         wallBonus: 0
